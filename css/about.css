@@ -1,6 +1,6 @@
 
 body{
-  background-image: url('../img/abt-bg-2.jpg');
+  background-image: url('../img/abt-bg200.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment:fixed;
@@ -55,7 +55,7 @@ a:hover{
 
 
 h1{
-  color: rgb(97,193,0);
+  color: rgb(193,244,123);
   font-family: 'Roboto Mono', monospace;
   font-weight: bolder;
 }

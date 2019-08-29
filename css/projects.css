@@ -1,6 +1,6 @@
 
 body{
-  background-image: url('../img/projects_bg.jpg');
+  background-image: url('../img/projects_bg2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment:fixed;
@@ -19,6 +19,7 @@ body{
 
 .content{
   color: white;
+  font-size: 20px;
   margin-left: 70px;
 }
 
